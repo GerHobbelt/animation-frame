@@ -24,8 +24,8 @@
     }
   ],
   "devDependencies": {
-    "uglify-js": "^2.6.2",
-    "browserify": "^13.0.1"
+    "uglify-js": "2.7.5",
+    "browserify": "14.0.0"
   },
   "scripts": {
     "build": "npm run build:browserify && npm run build:uglify",
